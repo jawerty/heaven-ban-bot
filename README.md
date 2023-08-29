@@ -8,6 +8,8 @@ Overall, I think it's a fun idea and good to see the process of how to make one 
 # How does it work?
 The bot works by first scraping recent tweets from the desired user to "heaven" ban. Using these tweets it will summarize the ideology with an LLM (tested with the LLama 2 chat model). With the ideology summary it will reply to recent tweets from the user with tweets that essentially agree/validates the user and aligns with their worldview.
 
+![Screen Shot 2023-08-29 at 1 48 03 PM](https://github.com/jawerty/heaven-ban-bot/assets/1999719/c6742ceb-0341-4ac7-96c3-0da34fa8e6e6)
+
 # How to use it
 As a prerequisite please create a twitter account you want to act as the "Heaven Ban" Bot
 
